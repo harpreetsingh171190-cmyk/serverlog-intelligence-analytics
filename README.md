@@ -114,4 +114,4 @@ Schema-specific CloudTrail/Cloudflare adapters, automated tests, richer anomaly 
 Choose a license before publishing (for example, MIT if you want to permit reuse with attribution).
 
 ## Author
-Add your name, portfolio, and LinkedIn/GitHub profile here.
+Harpreet Singh
